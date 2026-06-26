@@ -20,7 +20,7 @@ export default function Hero() {
                     <p>Passionate about the web. <br />Obsessed with the details.</p>
 
                     <ul>
-                        <li><a href="https://drive.google.com/file/d/1NWIEUG3HurjSMaNCIht7uIXDiwSk3gvy/view" target="_blank" rel="noopener noreferrer"><button type="button">Resume <i className="fa fa-external-link"></i></button></a></li>
+                        <li><a href="https://drive.google.com/file/d/1oAbvTqXOkvEBtoN1hDtIWmJ1VoM8EFIB/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button">Resume <i className="fa fa-external-link"></i></button></a></li>
                         <li><a href="#portfolio"><button type="button" className="arrow" rel="noopener noreferrer">See my work</button></a></li>
                     </ul>
                 </div>
