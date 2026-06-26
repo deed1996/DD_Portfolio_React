@@ -821,6 +821,10 @@ button:hover,
   padding: 0;
 }
 
+.portfolio_text__project--links li a:hover {
+    border-bottom: 1px solid black;
+}
+
 .embla {
   overflow: hidden;
 }
